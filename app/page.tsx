@@ -12,7 +12,7 @@ export default function Home() {
           </div>
           <div className='ml-auto flex gap-10 text-white'>
             <a>Le groupe WiSEED​</a>
-            <a>Nos Services d’Investissement</a>
+            <a>Nos Services d Investissement</a>
             <a>Nos agréments​</a>
           </div>
         </div>
@@ -21,10 +21,10 @@ export default function Home() {
       <div className='relative'>
         <div className='w-3/5 px-10 pt-20 pb-20 text-white'>
           <h1 className='text-5xl leading-snug'>
-            L’Entreprise d’Investissement de référence qui digitalise vos opérations en capital et dette
+            L’Entreprise d Investissement de référence qui digitalise vos opérations en capital et dette
           </h1>
           <p className='text-xl text-slate-400 mt-4 leading-10 font-light w-3/4	'>Le tiers de confiance régulé qui simplifie vos
-            émissions de titres, club deals, véhicules et fonds d’investissement. ​</p>
+            émissions de titres, club deals, véhicules et fonds d investissement. ​</p>
           <div className='mt-40'>
             <Image src={`/arrow.png`} width={64} height={39} alt='logo wiseed' />
           </div>
@@ -55,7 +55,7 @@ export default function Home() {
               </div>
               <div className="texte text-black">
                 <h3 className='text-3xl mb-4'>WiSEED Investment</h3>
-                <p className='text-slate-700  text-lg'>Entreprise d’investissement indépendante agrée Prestataire de Services d'Investissement (PSI) par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR) de la Banque de France, CIB 11783​
+                <p className='text-slate-700  text-lg'>Entreprise d’investissement indépendante agrée Prestataire de Services d Investissement (PSI) par l Autorité de Contrôle Prudentiel et de Résolution (ACPR) de la Banque de France, CIB 11783​
 Forte de son expérience sur plus de 1 000 opérations financées, WiSEED met son savoir-faire et son expertise au service des professionnels de l’investissement.​ </p>
                 <div className='mt-10'>
                   <a className='text-red-500' href="#">Découvrir</a>
